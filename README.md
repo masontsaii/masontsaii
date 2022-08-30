@@ -1,2 +1,3 @@
-# mtsai
-README
+- 👋 Hi I'm Mason Tsai.
+- ⚡ I'm interested in learning about APIs, Data Science, Databases, and Machine Learning
+- 📫 Reach me at https://masszn.com/
