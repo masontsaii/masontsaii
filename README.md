@@ -1,2 +1,2 @@
 - 👋 Hi I'm Mason Tsai.
-- ⚡ I'm interested in learning about APIs, Data Science, Databases, and Machine Learning
+- ⚡ I'm interested in learning about Data Science, Databases, Machine Learning, Cybersecurity, and more!
